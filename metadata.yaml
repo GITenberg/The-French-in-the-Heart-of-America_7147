@@ -1,0 +1,25 @@
+_repo: The-French-in-the-Heart-of-America_7147
+creator:
+  author:
+    agent_name: Finley, John H. (John Huston)
+    alias: Finley, John Huston
+    birthdate: 1863
+    deathdate: 1940
+    gutenberg_agent_id: '2355'
+    url: http://www.gutenberg.org/2009/agents/2355
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mississippi River Valley -- History'
+- !lcsh 'French -- North America'
+- !lcc 'F350.5'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+title: The French in the Heart of America
+url: http://www.gutenberg.org/ebooks/7147
