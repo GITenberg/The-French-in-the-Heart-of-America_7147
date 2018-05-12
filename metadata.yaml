@@ -1,4 +1,8 @@
 _repo: The-French-in-the-Heart-of-America_7147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Finley, John H. (John Huston)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2355'
     url: http://www.gutenberg.org/2009/agents/2355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7147#The-French-in-the-Heart-of-America
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
